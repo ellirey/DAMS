@@ -129,7 +129,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
                     
                     <li class="nav-item">
-                        <router-link to="/admin-neutral-words" class="nav-link">
+                        <router-link to="/events" class="nav-link">
                             <i class="fas fa-calendar-check nav-icon book-logo-color"></i>
                         <p>
                             Events
